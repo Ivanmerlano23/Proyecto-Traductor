@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/idiomas/Ingles.java</file>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/uac/cuenta/Cuenta.java</file>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/persistencia/ArchiTraductor.java</file>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/uac/ed/NodoArbol.java</file>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/uac/cuenta/ManejoCuenta.java</file>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/traductor/Traductor.java</file>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/uac/gui/TraductorI.java</file>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/uac/gui/AEspañol.java</file>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/idiomas/Frances.java</file>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/uac/gui/TraductorF.java</file>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/uac/gui/AIngles.java</file>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/uac/traductor/NosePuedeException.java</file>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/uac/gui/AcercaDe.java</file>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/uac/gui/Menu.java</file>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/uac/traductor/MotException.java</file>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/uac/gui/PortadaInicioSesion.java</file>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/uac/traductor/ArbolesIdiomas.java</file>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/uac/traductor/WordException.java</file>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/uac/traductor/TuPeuxPasException.java</file>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/uac/gui/TraductorE.java</file>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/uac/cuenta/CuentaException.java</file>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/uac/gui/RCuenta.java</file>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/uac/gui/AFrances.java</file>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/uac/traductor/PalabraException.java</file>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/idiomas/Español.java</file>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/uac/cuenta/DatosIncorrectosException.java</file>
+            <file>file:/C:/Users/ivanf/OneDrive/Documentos/NetBeansProjects/ProyectoTraductor/src/uac/traductor/YouCantException.java</file>
+        </group>
+    </open-files>
+</project-private>
